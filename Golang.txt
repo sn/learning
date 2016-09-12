@@ -1,0 +1,62 @@
+# Golang
+
+## Installation 
+
+@TODO ENV vars 
+@TPDP Gopaths
+
+## General Notes
+
+Go is a compiled language that compiles to machine code and needs no further dependencies to run. It's syntax uses unicode. 
+
+Go code is organized into packages that tend to be similar to modules in other languages.
+The `package main` directive is special and indicates a standalone application, not a library.  The function `main()` is also special in `package main` since this is where processing will begin. 
+
+When importing packages, you must only import the ones you need otherwise your application will not compile. This is part of the golang spec and ensures that you only include what you need. 
+
+Go does not require semi-colons after statments or declarations unless you use two on the same line straight after each other. Go takes a very strong stance on syntax formatting and you must adhere to these rules for consistency. 
+
+The `for loop` is the only looping statement in go and it has a few different constructs. 
+
+The `blank identifier`, whose name is `_` is used when you need to assign a variable value and not use it. This will avoid compilation errors thrown by Go due to unused variables. 
+
+## Command Line
+
+go build main.go (creates the binary)
+go run main.go
+gofmt main.go
+go get <package>
+go fmt
+go <shows all commands>
+go install
+go clean <removes binary>
+go get -u <package> (updates package)
+
+## Data Types
+
+There are numerous ways to declare variables in Go: 
+
+	s := "" // Not used for package level variables
+    var s string
+    var s = ""
+    var s string = ""
+
+## Packages 
+
+When a function name does not start with a capital letter, it is not exported outside of the package itself. It will only be availble to call from other functions inside hte package. Generally though, you dont mention public / private visibility in golang. 
+
+
+
+
+
+
+fmt
+os 
+
+
+
+
+
+
+
+# Learning Resources
