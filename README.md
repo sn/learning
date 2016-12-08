@@ -2,7 +2,7 @@
 
 I'm trying something new: learning how to learn. There's a ton of work that I need to get done and even more learning to do, but I'm finding conventional methods don't work anymore.
 
-So, as an experiment, I've decided to document my new learning processes and create an archive of notes and tips for each certification / technology or subject I need to complete in the upcoming months.  
+So, as an experiment, I've decided to document my new learning processes and create an archive of notes and tips for each certification / technology or subject I need to complete in the next year.
 
 At the time of writing this, I am already proficient in some of these topics, but not at a level that I am happy with.
 
@@ -73,7 +73,7 @@ Hopefully, this process would allow me to learn effectively.
 9. Nutrition
 10. Body Language
 
-### My Learning Method Summary
+## My Learning Method Summary
 
 There are many strategies for learning how to learn, but for me, it simply comes down to simplicity, understanding and immediate application:
 
@@ -122,4 +122,4 @@ I find that this step of enforcing and acknowledgement acts as the backup or con
 
 This would undoubtedly be my favourite part and requires no real effort on your part. It's well know that sleep is good for you, but what most people don't know is that your brain continues to work while you are asleep. Ever had one of those "aha!" moments first thing in the morning where you've managed to solve a problem you were struggling with the day before?
 
-Well, this is called Diffused Learning and there's lots of research available online about the topic. The trick is to learn just before you go to bed at night. 
+Well, this is called Diffused Learning and there's lots of research available online about the topic. The trick is to learn just before you go to bed at night.
