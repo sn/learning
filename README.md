@@ -65,7 +65,7 @@ Hopefully, this process would allow me to learn effectively.
 1. Survival & prepping
 2. Hand to hand combat
 3. How to write
-4. Investing
+4. Investing & building wealth
 5. Sign Language
 6. Chess
 7. Personal Health & Fitness
