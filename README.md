@@ -85,12 +85,12 @@ There are many strategies for learning how to learn, but for me, it comes down t
 
 It sounds strange, but the `go to bed` part is called [diffused learning](https://staciechoice1010.wordpress.com/2014/08/08/focused-vs-diffused-mode/) and for me, it's kind of like waking up the next morning with a new super power.
 
-Understanding the larger concept of what you are about to learn is vitaly important because you will likely be less intimidated and therefore more receptive. A simple way to do this is to watch either a quick or somewhat in-depth video about the topic you are attempting to learn. A 5000-mile view of the entire course or skill would be perfect at this stage. It help's by removing the unknown from it (there are no bad surprises - like geometry).
+Understanding the larger concept of what you are about to learn is vitally important because you will likely be less intimidated and therefore more receptive. A simple way to do this is to watch either a quick or somewhat in-depth video about the topic you are attempting to learn. A 5000-mile view of the entire course or skill would be perfect at this stage. It help's by removing the unknown from it (there are no bad surprises - like geometry).
 Since you will no longer be left spending energy on worrying about what you are not seeing or whats coming next, you can spend that time focussing on the actual learning at hand.
 
-For adults to learn effectively, we need a pressing need and immediate application of the skill we're attempting to learn otherwise it will be forgotten almost as fast as we've picked up the skill. 
+For adults to learn effectively, we need a pressing need and immediate application of the skill we're attempting to learn otherwise it will be forgotten almost as fast as we've picked up the skill.
 
-I've performed numerous experiments on the subject of forgetting newly acquired skills and my conclusion is that it takes roughly 2 weeks to lose the newly acquired information if not enforced with immediate application. This process is not black and white, it happens in a gradual fragmentation - like a battery losing its charge until the point where no energy remains. 
+I've performed numerous experiments on the subject of forgetting newly acquired skills and my conclusion is that it takes roughly 2 weeks to lose the newly acquired information if not enforced with immediate application. This process is not black and white, it happens in a gradual fragmentation - like a battery losing its charge until the point where no energy remains.
 
 ### The Rules of Learning
 
@@ -105,7 +105,7 @@ The human mind is a scary place and we're wired to be afraid or at least apprehe
 
 Orientating yourself is closely tied to familiarization with the topic. They are generally performed asynchronously and are also inversely proportional to one another.
 
-It can be quite trivial to watch a 10 minute video on Youtube about a topic you want to learn in order to get a sense of the requirements and outcomes that lay ahead. 
+It can be quite trivial to watch a 10 minute video on Youtube about a topic you want to learn in order to get a sense of the requirements and outcomes that lay ahead.
 
 The key difference between familiarization and orientation is this:
 
@@ -116,7 +116,7 @@ The key difference between familiarization and orientation is this:
 
 Once you have started learning a topic, I find it best to immediate practice the skill and jump straight into the deep end. For me personally, it works best if I learn the basics and then jump straight to the toughest parts of the skill and then work my way backwards. Practicing daily solidifies the knowledge and also creates the visual anchor your brain needs to remember something by.
 
-Most people think that you learn purely by repetition, but I find that to be a very shallow way of thinking about it. The practicing engages more of your senses and allows your mind to anchor the memories more efficiently. 
+Most people think that you learn purely by repetition, but I find that to be a very shallow way of thinking about it. The practicing engages more of your senses and allows your mind to anchor the memories more efficiently.
 
 #### Enforce
 
@@ -124,9 +124,9 @@ Most people stop learning after the practice step because they generally feel "g
 
 I find that this step of enforcing and acknowledgement acts as the backup or confirmation to the skill that you've been learning. It also adds a bit of theory to the physical skill and therefore a more complete picture.
 
-What does it mean to enforce a skill? This might be different for everyone, but for me, it's the act of reading supporting topics, blog posts and alternative theories or angles relating to what I'm trying to learn. 
+What does it mean to enforce a skill? This might be different for everyone, but for me, it's the act of reading supporting topics, blog posts and alternative theories or angles relating to what I'm trying to learn.
 
-An example would be when I was learning German, I would read a few articles about Germanic languages in general or try memorize the 1000 most used German words (this helped tremendously even though it wasn't part of the official German course I was on). 
+An example would be when I was learning German, I would read a few articles about Germanic languages in general or try memorize the 1000 most used German words (this helped tremendously even though it wasn't part of the official German course I was on).
 
 #### Diffuse
 
@@ -134,4 +134,4 @@ This would undoubtedly be my favorite part and requires no real effort on your p
 
 Well, this is called Diffused Learning and there's lots of research available online about the topic. The trick is to learn just before you go to bed at night.
 
-I don't mean cramming it in one night before an exam because at that point, you've already broken all the previous rules mentioned above and effectively nullified any real ability to learn. 
+I don't mean cramming it in one night before an exam because at that point, you've already broken all the previous rules mentioned above and effectively nullified any real ability to learn.
