@@ -101,6 +101,12 @@ with the overall topic at hand.
 
 The human mind is a scary place and we're wired to be afraid or at least apprehensive of the unknown (see where this is going?).
 
+#### Deconstruct
+
+It's important to break down the larger skill you are attempting to learn into smaller, more manageable pieces. Bite-sized chunks, if you will. The smaller chunks of work required will allow you to prioritize the parts you feel are important to achieving your goal.
+
+I also use this deconstruction process to set a kind of progress indicator of my learning progress.
+
 #### Orientate
 
 Orientating yourself is closely tied to familiarization with the topic. They are generally performed asynchronously and are also inversely proportional to one another.
