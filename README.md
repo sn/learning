@@ -78,10 +78,11 @@ Hopefully, this process would allow me to learn effectively.
 There are many strategies for learning how to learn, but for me, it comes down to simplicity, understanding and immediate application:
 
 1. Understand what you are about to learn (**familiarize**)
-2. See it visually - preferably an explainer video (**orientate**)
-3. Hands-on real world implementation of what you are learning (**practice**)
-4. Follow it up with reading/text/research (**enforce**)
-5. Go to bed (**diffuse**)
+2. Break it down into manageable pieces (**deconstruction***)
+3. See it visually - preferably an explainer video (**orientate**)
+4. Hands-on real world implementation of what you are learning (**practice**)
+5. Follow it up with reading/text/research (**enforce**)
+6. Go to bed (**diffuse**)
 
 It sounds strange, but the `go to bed` part is called [diffused learning](https://staciechoice1010.wordpress.com/2014/08/08/focused-vs-diffused-mode/) and for me, it's kind of like waking up the next morning with a new super power.
 
