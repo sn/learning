@@ -72,6 +72,7 @@ Hopefully, this process would allow me to learn effectively.
 8. Machine Learning
 9. Nutrition
 10. Body Language
+11. Bitcoin
 
 ## My Learning Method Summary
 
