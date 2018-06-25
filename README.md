@@ -1,78 +1,87 @@
 # Learning Notes
 
-I'm trying something new: learning how to learn. There's a ton of work that I need to get done and even more learning to do, but I'm finding conventional methods don't work anymore.
+I'm trying something new: re-learning how to learn. There's a ton of work that I need to get done and even more learning to do, but I'm finding conventional methods don't work for me anymore.
 
-So, as an experiment, I've decided to document my new learning processes and create an archive of notes and tips for each certification / technology or subject I need to complete in the next year.
+So, as an experiment, I've decided to document my new learning processes and create an archive of notes and tips for each certification / technology or subject I need to complete in the next year (2017 / 2018).
+
+I've turned this into a project on Github as a form of accountability and possibly a way to get input from others about how you managed to learn more effectively.
 
 At the time of writing this, I am already proficient in some of these topics, but not at a level that I am happy with.
 
-Hopefully, this process would allow me to learn effectively.
+Hopefully, this process would allow me to learn more effectively.
 
-## 2017 Certifications:
+## 2017/2018 Certifications:
 
-1. AWS Certified Solutions Architect (Associate level)
-2. Comptia Security+
-3. Oracle Certified Java 8 Programmer (Associate level)
-4. Certified Ethical Hacker v9
-5. German Language A1/2
-6. Comptia Project+
-7. LPIC-1 (Linux Server Professional)
-8. LPIC-2 (Linux Network Professional)
-9. LPIC-3 (Linux Enterprise Professional)
-10. Neo4j Certified Professional
+1.  [x] AWS Certified Solutions Architect (Associate level)
+2.  [ ] Comptia Security+
+3.  [ ] Oracle Certified Java 8 Programmer (Associate level)
+4.  [ ] Certified Ethical Hacker v9
+5.  [x] German Language A1/2
+6.  [x] Comptia Project+
+7.  [x] LPIC-1 (Linux Server Professional)
+8.  [x] LPIC-2 (Linux Network Professional)
+9.  [ ] LPIC-3 (Linux Enterprise Professional)
+10. [x] Neo4j Certified Professional
 
-## List of Courses
+## List of Courses I want to Complete
 
-1. [Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/)
-2. [CASP](https://www.cybrary.it/course/comptia-casp/)
-3. [Linux +](https://www.cybrary.it/course/comptia-linux-plus/)
-4. [Cloud +](https://www.cybrary.it/course/comptia-cloud-plus/)
-5. [Security +](https://www.cybrary.it/course/comptia-security-plus/)
-6. [PCI/DSS](https://www.cybrary.it/course/pcidss/)
-7. [IT Forensics](https://www.cybrary.it/course/computer-hacking-forensics-analyst/)
-8. [Pen Testing](https://www.cybrary.it/course/web-application-pen-testing/)
-9. [CISA](https://www.cybrary.it/course/cisa/)
-10. [Secure Coding](https://www.cybrary.it/course/secure-coding/)
-11. [Advanced Pen Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
-12. [CASP](https://www.cybrary.it/course/comptia-casp/)
-13. [Social Engineering](https://www.cybrary.it/course/social-engineering/)
-14. [Cloud Security](https://www.cybrary.it/course/isc2-certified-cloud-security-professional-ccsp/)
-15. [CISSP](https://www.cybrary.it/course/cissp/)
-16. [Project Management](https://www.cybrary.it/course/project-management-professional/)
-17. [Corporate Security Management](https://www.cybrary.it/course/corporate-cybersecurity-management/)
-18. [Security Awareness](https://www.cybrary.it/course/end-user-security-awareness-1-hour/)
+1.  [ ] [Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/)
+2.  [ ] [CASP](https://www.cybrary.it/course/comptia-casp/)
+3.  [x] [Linux +](https://www.cybrary.it/course/comptia-linux-plus/)
+4.  [x] [Cloud +](https://www.cybrary.it/course/comptia-cloud-plus/)
+5.  [x] [Security +](https://www.cybrary.it/course/comptia-security-plus/)
+6.  [ ] [PCI/DSS](https://www.cybrary.it/course/pcidss/)
+7.  [x] [IT Forensics](https://www.cybrary.it/course/computer-hacking-forensics-analyst/)
+8.  [ ] [Pen Testing](https://www.cybrary.it/course/web-application-pen-testing/)
+9.  [ ] [CISA](https://www.cybrary.it/course/cisa/)
+10. [x] [Secure Coding](https://www.cybrary.it/course/secure-coding/)
+11. [x] [Advanced Pen Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
+12. [ ] [CASP](https://www.cybrary.it/course/comptia-casp/)
+13. [x] [Social Engineering](https://www.cybrary.it/course/social-engineering/)
+14. [x] [Cloud Security](https://www.cybrary.it/course/isc2-certified-cloud-security-professional-ccsp/)
+15. [ ] [CISSP](https://www.cybrary.it/course/cissp/)
+16. [x] [Project Management](https://www.cybrary.it/course/project-management-professional/)
+17. [ ] [Corporate Security Management](https://www.cybrary.it/course/corporate-cybersecurity-management/)
+18. [ ] [Security Awareness](https://www.cybrary.it/course/end-user-security-awareness-1-hour/)
 
-## Programming Languages / Frameworks:
+## Programming Languages / Frameworks / Tech:
 
-1. [Java](https://www.oracle.com/java/index.html)
-2. [Android](https://www.android.com/)
-3. [Golang](https://golang.org/)
-4. [Swift ](https://swift.org/)
-5. [Rust](https://www.rust-lang.org/en-US/)
-6. [Elixir](http://elixir-lang.org/)
-7. [Phoenix](http://phoenixframework.org/)
-8. [Gin](https://gin-gonic.github.io/gin/)
-9. [Python](https://www.python.org/)
+1.  [x] [Java](https://www.oracle.com/java/index.html)
+2.  [x] [Android](https://www.android.com/)
+3.  [x] [Golang](https://golang.org/)
+4.  [x] [Swift ](https://swift.org/)
+5.  [ ] [Rust](https://www.rust-lang.org/en-US/)
+6.  [x] [Elixir](http://elixir-lang.org/)
+7.  [x] [Phoenix](http://phoenixframework.org/)
+8.  [x] [Gin](https://gin-gonic.github.io/gin/)
+9.  [x] [Python](https://www.python.org/)
+10. [ ] [Crystal](https://crystal-lang.org/)
+11. [ ] [WebAssembly](https://webassembly.org/)
+12. [ ] [Kubernetes](https://kubernetes.io/)
+13. [ ] [GraphQL](https://graphql.org/)
+14. [ ] [Lua](https://www.lua.org/)
 
-## Storage Systems:
+## Database / Storage Systems:
 
-1. [PostgreSQL](https://www.postgresql.org/)
-2. [REDIS](http://redis.io/)
-3. [Neo4j](https://neo4j.com/)
+1. [x] [PostgreSQL](https://www.postgresql.org/)
+2. [x] [REDIS](http://redis.io/)
+3. [x] [Neo4j](https://neo4j.com/)
 
 ## Other Topics:
 
-1. Survival & prepping
-2. Hand to hand combat
-3. How to write
-4. Investing & building wealth
-5. Sign Language
-6. Chess
-7. Personal Health & Fitness
-8. Machine Learning
-9. Nutrition
-10. Body Language
-11. Bitcoin
+1.  [ ] Survival & prepping (you never know when zombies pitch up)
+2.  [x] Hand to hand combat
+3.  [ ] How to write
+4.  [ ] Investing & building wealth
+5.  [ ] Sign Language
+6.  [ ] Chess
+7.  [ ] Personal Health & Fitness
+8.  [x] Machine Learning
+9.  [x] Nutrition
+10. [ ] Body recomposition
+11. [x] Body Language
+12. [x] Cryptocurrencies
+13. [ ] More Code
 
 ## My Learning Method Summary
 
