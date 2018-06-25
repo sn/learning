@@ -43,6 +43,8 @@ Hopefully, this process would allow me to learn more effectively.
 16. [x] [Project Management](https://www.cybrary.it/course/project-management-professional/)
 17. [ ] [Corporate Security Management](https://www.cybrary.it/course/corporate-cybersecurity-management/)
 18. [ ] [Security Awareness](https://www.cybrary.it/course/end-user-security-awareness-1-hour/)
+19. [ ] [Golang Web Dev](https://github.com/GoesToEleven/golang-web-dev)
+20. [ ] [Golang Training](https://github.com/GoesToEleven/GolangTraining)
 
 ## Programming Languages / Frameworks / Tech:
 
@@ -97,28 +99,29 @@ There are many strategies for learning how to learn, but for me, it comes down t
 It sounds strange, but the `go to bed` part is called [diffused learning](https://staciechoice1010.wordpress.com/2014/08/08/focused-vs-diffused-mode/) and for me, it's kind of like waking up the next morning with a new super power.
 
 Understanding the larger concept of what you are about to learn is vitally important because you will likely be less intimidated and therefore more receptive. A simple way to do this is to watch either a quick or somewhat in-depth video about the topic you are attempting to learn. A 5000-mile view of the entire course or skill would be perfect at this stage. It help's by removing the unknown from it (there are no bad surprises - like geometry).
+
 Since you will no longer be left spending energy on worrying about what you are not seeing or whats coming next, you can spend that time focussing on the actual learning at hand.
 
 For adults to learn effectively, we need a pressing need and immediate application of the skill we're attempting to learn otherwise it will be forgotten almost as fast as we've picked up the skill.
 
-I've performed numerous experiments on the subject of forgetting newly acquired skills and my conclusion is that it takes roughly 2 weeks to lose the newly acquired information if not enforced with immediate application. This process is not black and white, it happens in a gradual fragmentation - like a battery losing its charge until the point where no energy remains.
+I've performed numerous experiments on the subject of forgetting newly acquired skills and my conclusion is that it takes roughly 2 weeks for my brain to lose the newly acquired information if not enforced with immediate application. This process is not black and white, it happens in a gradual fragmentation - like a battery losing its charge until the point where no energy remains.
 
-### The Rules of Learning
+### My Steps to Learning
 
-#### Familiarize
+#### Familiarization
 
 This is a crucial step in the process of learning. Jumping right in to the meaty content of the topic you want to learn is much more difficult than it could be if you spend a day or two familiarizing yourself
 with the overall topic at hand.
 
 The human mind is a scary place and we're wired to be afraid or at least apprehensive of the unknown (see where this is going?).
 
-#### Deconstruct
+#### Deconstruction
 
 It's important to break down the larger skill you are attempting to learn into smaller, more manageable pieces. Bite-sized chunks, if you will. The smaller chunks of work required will allow you to prioritize the parts you feel are important to achieving your goal.
 
 I also use this deconstruction process to set a kind of progress indicator of my learning progress.
 
-#### Orientate
+#### Orientation
 
 Orientating yourself is closely tied to familiarization with the topic. They are generally performed asynchronously and are also inversely proportional to one another.
 
@@ -135,7 +138,7 @@ Once you have started learning a topic, I find it best to immediate practice the
 
 Most people think that you learn purely by repetition, but I find that to be a very shallow way of thinking about it. The practicing engages more of your senses and allows your mind to anchor the memories more efficiently.
 
-#### Enforce
+#### Enforcement
 
 Most people stop learning after the practice step because they generally feel "good enough" to move forward. The problem with this is that you have not yet challenged your own assumptions or received decisive confirmation about what you've been learning.
 
@@ -145,7 +148,7 @@ What does it mean to enforce a skill? This might be different for everyone, but 
 
 An example would be when I was learning German, I would read a few articles about Germanic languages in general or try memorize the 1000 most used German words (this helped tremendously even though it wasn't part of the official German course I was on).
 
-#### Diffuse
+#### Diffusing
 
 This would undoubtedly be my favorite part and requires no real effort on your part. It's well know that sleep is good for you, but what most people don't know is that your brain continues to work while you are asleep. Ever had one of those "aha!" moments first thing in the morning where you've managed to solve a problem you were struggling with the day before?
 
