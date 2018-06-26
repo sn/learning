@@ -73,8 +73,8 @@ Hopefully, this process would allow me to learn more effectively.
 
 1.  [ ] Survival & prepping (you never know when zombies pitch up)
 2.  [x] Hand to hand combat
-3.  [ ] How to write
-4.  [ ] Investing & building wealth
+3.  [ ] Improved writing
+4.  [ ] Investing & Wealth Management
 5.  [ ] Sign Language
 6.  [ ] Chess
 7.  [ ] Personal Health & Fitness
@@ -83,7 +83,7 @@ Hopefully, this process would allow me to learn more effectively.
 10. [ ] Body recomposition
 11. [x] Body Language
 12. [x] Cryptocurrencies
-13. [ ] More Code
+13. [ ] Morse Code
 
 ## My Learning Method Summary
 
