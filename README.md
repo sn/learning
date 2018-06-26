@@ -36,15 +36,14 @@ Hopefully, this process would allow me to learn more effectively.
 9.  [ ] [CISA](https://www.cybrary.it/course/cisa/)
 10. [x] [Secure Coding](https://www.cybrary.it/course/secure-coding/)
 11. [x] [Advanced Pen Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
-12. [ ] [CASP](https://www.cybrary.it/course/comptia-casp/)
-13. [x] [Social Engineering](https://www.cybrary.it/course/social-engineering/)
-14. [x] [Cloud Security](https://www.cybrary.it/course/isc2-certified-cloud-security-professional-ccsp/)
-15. [ ] [CISSP](https://www.cybrary.it/course/cissp/)
-16. [x] [Project Management](https://www.cybrary.it/course/project-management-professional/)
-17. [ ] [Corporate Security Management](https://www.cybrary.it/course/corporate-cybersecurity-management/)
-18. [ ] [Security Awareness](https://www.cybrary.it/course/end-user-security-awareness-1-hour/)
-19. [ ] [Golang Web Dev](https://github.com/GoesToEleven/golang-web-dev)
-20. [ ] [Golang Training](https://github.com/GoesToEleven/GolangTraining)
+12. [x] [Social Engineering](https://www.cybrary.it/course/social-engineering/)
+13. [x] [Cloud Security](https://www.cybrary.it/course/isc2-certified-cloud-security-professional-ccsp/)
+14. [ ] [CISSP](https://www.cybrary.it/course/cissp/)
+15. [x] [Project Management](https://www.cybrary.it/course/project-management-professional/)
+16. [ ] [Corporate Security Management](https://www.cybrary.it/course/corporate-cybersecurity-management/)
+17. [ ] [Security Awareness](https://www.cybrary.it/course/end-user-security-awareness-1-hour/)
+18. [ ] [Golang Web Dev](https://github.com/GoesToEleven/golang-web-dev)
+19. [ ] [Golang Training](https://github.com/GoesToEleven/GolangTraining)
 
 ## Programming Languages / Frameworks / Tech:
 
