@@ -44,6 +44,7 @@ Hopefully, this process would allow me to learn more effectively.
 17. [ ] [Security Awareness](https://www.cybrary.it/course/end-user-security-awareness-1-hour/)
 18. [ ] [Golang Web Dev](https://github.com/GoesToEleven/golang-web-dev)
 19. [ ] [Golang Training](https://github.com/GoesToEleven/GolangTraining)
+20. [ ] [Software Engineering](https://learn.saylor.org/course/view.php?id=73)
 
 ## Programming Languages / Frameworks / Tech:
 
