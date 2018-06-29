@@ -44,7 +44,7 @@ Hopefully, this process would allow me to learn more effectively.
 17. [ ] [Security Awareness](https://www.cybrary.it/course/end-user-security-awareness-1-hour/)
 18. [ ] [Golang Web Dev](https://github.com/GoesToEleven/golang-web-dev)
 19. [ ] [Golang Training](https://github.com/GoesToEleven/GolangTraining)
-20. [ ] [Software Engineering](https://learn.saylor.org/course/view.php?id=73)
+20. [ ] [Saylor Software Engineering Track](https://learn.saylor.org/course/view.php?id=73)
 
 ## Programming Languages / Frameworks / Tech:
 
@@ -62,12 +62,21 @@ Hopefully, this process would allow me to learn more effectively.
 12. [ ] [Kubernetes](https://kubernetes.io/)
 13. [ ] [GraphQL](https://graphql.org/)
 14. [ ] [Lua](https://www.lua.org/)
+14. [x] [PHP](http://php.net/)
+14. [x] [JavaScript](https://www.javascript.com)
+14. [x] [Swift](https://swift.org/)
+14. [x] [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
+14. [x] [C](https://en.wikipedia.org/wiki/C_(programming_language))
+14. [x] [HTML](https://en.wikipedia.org/wiki/HTML)
+14. [x] [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ## Database / Storage Systems:
 
 1. [x] [PostgreSQL](https://www.postgresql.org/)
 2. [x] [REDIS](http://redis.io/)
 3. [x] [Neo4j](https://neo4j.com/)
+3. [x] [MongoDB](https://www.mongodb.com/)
+3. [x] [MySQL](https://www.mysql.com/)
 
 ## Other Topics:
 
@@ -89,12 +98,12 @@ Hopefully, this process would allow me to learn more effectively.
 
 There are many strategies for learning how to learn, but for me, it comes down to simplicity, understanding and immediate application:
 
-1. Understand what you are about to learn (**familiarize**)
-2. Break it down into manageable pieces (**deconstruction***)
-3. See it visually - preferably an explainer video (**orientate**)
-4. Hands-on real world implementation of what you are learning (**practice**)
-5. Follow it up with reading/text/research (**enforce**)
-6. Go to bed (**diffuse**)
+1. `[F]AMILIARIZE` Understand what you are about to learn
+2. `[D]ECONSTRUCT` Break it down into manageable pieces
+3. `[O]RIENTATE` See it visually - preferably an explainer video
+4. `[P]RACTICE` Hands-on real world implementation of what you are learning
+5. `[E]NFORCE` Follow it up with reading/text/research
+6. `[D]IFFUSE` Go to bed
 
 It sounds strange, but the `go to bed` part is called [diffused learning](https://staciechoice1010.wordpress.com/2014/08/08/focused-vs-diffused-mode/) and for me, it's kind of like waking up the next morning with a new super power.
 
