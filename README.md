@@ -25,7 +25,7 @@ Hopefully, this process would allow me to learn more effectively.
 11. [ ] [Linux Foundation Certified System Administrator](https://training.linuxfoundation.org/certification/lfcs#examDetails) 
 11. [x] [Neo4j Certified Professional](https://neo4j.com/graphacademy/neo4j-certification/)
 
-## List of Courses I want to Complete
+## List of Courses:
 
 1.  [ ] [Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/)
 2.  [ ] [CASP](https://www.cybrary.it/course/comptia-casp/)
@@ -106,6 +106,9 @@ Hopefully, this process would allow me to learn more effectively.
 11. [x] Body Language
 12. [x] Cryptocurrencies
 13. [ ] Morse Code
+14. [x] Open Water Scuba
+15. [x] Private Pilot License 
+16. [x] Paragliding License
 
 ## My Learning Method Summary
 
