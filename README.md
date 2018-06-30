@@ -12,16 +12,18 @@ Hopefully, this process would allow me to learn more effectively.
 
 ## 2017/2018 Certifications:
 
-1.  [x] AWS Certified Solutions Architect
-2.  [ ] Comptia Security+
-3.  [ ] Oracle Certified Java 8 Programmer
-4.  [ ] Certified Ethical Hacker v9
-5.  [x] German Language A1/2
-6.  [x] Comptia Project+
-7.  [x] LPIC-1 (Linux Server Professional)
-8.  [x] LPIC-2 (Linux Network Professional)
-9.  [ ] LPIC-3 (Linux Enterprise Professional)
-10. [x] Neo4j Certified Professional
+1.  [x] [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+2.  [ ] [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
+3.  [ ] [Comptia Security+](https://certification.comptia.org/certifications/security)
+4.  [ ] [Oracle Certified Java 8 Programmer](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=654&get_params=p_id:357)
+5.  [ ] [Certified Ethical Hacker v9](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+6.  [x] [German Language A1/2](http://goethezentrum-capetown.co.za/)
+7.  [x] [Comptia Project+](https://certification.comptia.org/certifications/project)
+8.  [x] [LPIC-1 (Linux Server Professional)](http://www.lpi.org/our-certifications/summary-of-certifications)
+9.  [x] [LPIC-2 (Linux Network Professional)](http://www.lpi.org/our-certifications/summary-of-certifications)
+10. [ ] [LPIC-3 (Linux Enterprise Professional)](http://www.lpi.org/our-certifications/summary-of-certifications)
+11. [ ] [Linux Foundation Certified System Administrator](https://training.linuxfoundation.org/certification/lfcs#examDetails) 
+11. [x] [Neo4j Certified Professional](https://neo4j.com/graphacademy/neo4j-certification/)
 
 ## List of Courses I want to Complete
 
