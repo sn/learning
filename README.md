@@ -86,8 +86,8 @@ Hopefully, this process would allow me to learn more effectively.
 1. [x] [PostgreSQL](https://www.postgresql.org/)
 2. [x] [REDIS](http://redis.io/)
 3. [x] [Neo4j](https://neo4j.com/)
-3. [x] [MongoDB](https://www.mongodb.com/)
-3. [x] [MySQL](https://www.mysql.com/)
+4. [x] [MongoDB](https://www.mongodb.com/)
+5. [x] [MySQL](https://www.mysql.com/)
 
 ## Other Topics:
 
