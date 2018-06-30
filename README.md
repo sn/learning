@@ -4,7 +4,7 @@ I'm trying something new: re-learning how to learn. There's a ton of work that I
 
 So, as an experiment, I've decided to document my new learning processes and create an archive of notes and tips for each certification / technology or subject I need to complete in the next year (2017 / 2018).
 
-I've turned this into a project on Github as a form of accountability and possibly a way to get input from others about how you managed to learn more effectively.
+I've turned this into a project on Github as a form of accountability and possibly a way to get input from others about how you managed to learn more effectively while keeping track of what needs to be done and what has been done - an ongoing record.
 
 At the time of writing this, I am already proficient in some of these topics, but not at a level that I am happy with.
 
