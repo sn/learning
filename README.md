@@ -69,6 +69,15 @@ Hopefully, this process would allow me to learn more effectively.
 14. [x] [C](https://en.wikipedia.org/wiki/C_(programming_language))
 14. [x] [HTML](https://en.wikipedia.org/wiki/HTML)
 14. [x] [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+14. [x] [SQL](https://en.wikipedia.org/wiki/SQL)
+14. [x] [Node.js](https://nodejs.org/en/)
+14. [x] [Ruby](https://www.ruby-lang.org/en/)
+14. [x] [Ruby on Rails](https://rubyonrails.org/)
+14. [x] [Sinatra](http://sinatrarb.com/)
+14. [x] [LaravelPHP](https://laravel.com/)
+14. [ ] [Django](https://www.djangoproject.com/)
+14. [ ] [Webpack](https://webpack.js.org/)
+14. [ ] [RabbitMQ](https://www.rabbitmq.com/)
 
 ## Database / Storage Systems:
 
