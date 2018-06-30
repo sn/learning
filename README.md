@@ -12,9 +12,9 @@ Hopefully, this process would allow me to learn more effectively.
 
 ## 2017/2018 Certifications:
 
-1.  [x] AWS Certified Solutions Architect (Associate level)
+1.  [x] AWS Certified Solutions Architect
 2.  [ ] Comptia Security+
-3.  [ ] Oracle Certified Java 8 Programmer (Associate level)
+3.  [ ] Oracle Certified Java 8 Programmer
 4.  [ ] Certified Ethical Hacker v9
 5.  [x] German Language A1/2
 6.  [x] Comptia Project+
@@ -64,22 +64,22 @@ Hopefully, this process would allow me to learn more effectively.
 12. [ ] [Kubernetes](https://kubernetes.io/)
 13. [ ] [GraphQL](https://graphql.org/)
 14. [ ] [Lua](https://www.lua.org/)
-14. [x] [PHP](http://php.net/)
-14. [x] [JavaScript](https://www.javascript.com)
-14. [x] [Swift](https://swift.org/)
-14. [x] [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
-14. [x] [C](https://en.wikipedia.org/wiki/C_(programming_language))
-14. [x] [HTML](https://en.wikipedia.org/wiki/HTML)
-14. [x] [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-14. [x] [SQL](https://en.wikipedia.org/wiki/SQL)
-14. [x] [Node.js](https://nodejs.org/en/)
-14. [x] [Ruby](https://www.ruby-lang.org/en/)
-14. [x] [Ruby on Rails](https://rubyonrails.org/)
-14. [x] [Sinatra](http://sinatrarb.com/)
-14. [x] [LaravelPHP](https://laravel.com/)
-14. [ ] [Django](https://www.djangoproject.com/)
-14. [ ] [Webpack](https://webpack.js.org/)
-14. [ ] [RabbitMQ](https://www.rabbitmq.com/)
+15. [x] [PHP](http://php.net/)
+16. [x] [JavaScript](https://www.javascript.com)
+17. [x] [Swift](https://swift.org/)
+18. [x] [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
+19. [x] [C](https://en.wikipedia.org/wiki/C_(programming_language))
+20. [x] [HTML](https://en.wikipedia.org/wiki/HTML)
+21. [x] [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+22. [x] [SQL](https://en.wikipedia.org/wiki/SQL)
+23. [x] [Node.js](https://nodejs.org/en/)
+24. [x] [Ruby](https://www.ruby-lang.org/en/)
+25. [x] [Ruby on Rails](https://rubyonrails.org/)
+26. [x] [Sinatra](http://sinatrarb.com/)
+27. [x] [LaravelPHP](https://laravel.com/)
+28. [ ] [Django](https://www.djangoproject.com/)
+29. [ ] [Webpack](https://webpack.js.org/)
+30. [ ] [RabbitMQ](https://www.rabbitmq.com/)
 
 ## Database / Storage Systems:
 
@@ -92,7 +92,7 @@ Hopefully, this process would allow me to learn more effectively.
 ## Other Topics:
 
 1.  [ ] Survival & prepping (you never know when zombies pitch up)
-2.  [x] Hand to hand combat
+2.  [x] [Hand to hand combat](http://www.ronin.co.za/)
 3.  [ ] Improved writing
 4.  [ ] Investing & Wealth Management
 5.  [ ] Sign Language
