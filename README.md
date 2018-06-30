@@ -45,6 +45,8 @@ Hopefully, this process would allow me to learn more effectively.
 18. [ ] [Golang Web Dev](https://github.com/GoesToEleven/golang-web-dev)
 19. [ ] [Golang Training](https://github.com/GoesToEleven/GolangTraining)
 20. [ ] [Saylor Software Engineering Track](https://learn.saylor.org/course/view.php?id=73)
+21. [ ] [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+22. [ ] [Java Programming and Software Engineering](https://www.coursera.org/specializations/java-programming)
 
 ## Programming Languages / Frameworks / Tech:
 
