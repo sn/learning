@@ -6,8 +6,6 @@ So, as an experiment, I've decided to document my new learning processes and cre
 
 I've turned this into a project on Github as a form of accountability and possibly a way to get input from others about how you managed to learn more effectively while keeping track of what needs to be done and what has been done - an ongoing record.
 
-At the time of writing this, I am already proficient in some of these topics, but not at a level that I am happy with.
-
 Hopefully, this process would allow me to learn more effectively.
 
 ## 2017/2018 Certifications:
