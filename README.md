@@ -107,6 +107,7 @@ Hopefully, this process would allow me to learn more effectively.
 14. [x] Open Water Scuba
 15. [x] Private Pilot License 
 16. [x] Paragliding License
+17. [ ] Keto
 
 ## My Learning Method Summary
 
