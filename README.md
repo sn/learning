@@ -80,6 +80,7 @@ Hopefully, this process would allow me to learn more effectively.
 28. [ ] [Django](https://www.djangoproject.com/)
 29. [ ] [Webpack](https://webpack.js.org/)
 30. [ ] [RabbitMQ](https://www.rabbitmq.com/)
+31. [ ] [Chef](https://chef.io)
 
 ## Database / Storage Systems:
 
