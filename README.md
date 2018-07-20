@@ -82,6 +82,7 @@ Hopefully, this process would allow me to learn more effectively.
 30. [ ] [RabbitMQ](https://www.rabbitmq.com/)
 31. [ ] [Chef](https://chef.io)
 32. [ ] [GraalVM](https://www.graalvm.org/)
+33. [ ] [GTK+](https://www.gtk.org/)
 
 ## Database / Storage Systems:
 
