@@ -92,6 +92,14 @@ Hopefully, this process would allow me to learn more effectively.
 4. [x] [MongoDB](https://www.mongodb.com/)
 5. [x] [MySQL](https://www.mysql.com/)
 
+## Modern Front-End:
+As we head to a future of [Web components](https://www.webcomponents.org/) a few things are slowly changing for the better on client side development. Components help us reuse and modularise components/code to use on multiple projects and transfer them with ease and gives us the opportunity to improve/perfect them over time (fixing one fixes all). Until this is a native feature in all browsers we'll have to do with 3rd party libraries. Note that the landscape has and still does change quite a lot ([Having a quick look at this will give you an idea](https://cdn-images-1.medium.com/max/1000/1*_EfUP-q18EfebxPgZ6BCbA.png)) **But components are definitely here to stay**.
+
+1. [ ] [Atomic design](http://atomicdesign.bradfrost.com/) - A lot of the principles for component based dev and design systems are in this book.
+2. [ ] [Vue.js](https://vuejs.org/v2/guide/index.html) - Just read up enough about it to have a general understanding for the next step.
+3. [ ] Now for some code/implementation [single file components](https://vuejs.org/v2/guide/single-file-components.html) will give you a better idea on what components are and how it's implemented. React does something similar but Vue hands down has the best readability and is the better choice to start with.
+
+
 ## Other Topics:
 
 1.  [ ] Survival & prepping (you never know when zombies pitch up)
