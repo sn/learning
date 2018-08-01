@@ -83,6 +83,7 @@ Hopefully, this process would allow me to learn more effectively.
 31. [ ] [Chef](https://chef.io)
 32. [ ] [GraalVM](https://www.graalvm.org/)
 33. [ ] [GTK+](https://www.gtk.org/)
+34. [ ] [Kotlin](https://kotlinlang.org/)
 
 ## Database / Storage Systems:
 
