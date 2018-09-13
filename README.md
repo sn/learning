@@ -99,7 +99,7 @@ Hopefully, this process would allow me to learn more effectively.
 1. [ ] [Web components](https://www.webcomponents.org/)
 2. [ ] [Atomic design](http://atomicdesign.bradfrost.com/)
 3. [ ] [Vue.js](https://vuejs.org/v2/guide/index.html)
-4. [ ] [React](https://reactjs.org/)
+4. [x] [React](https://reactjs.org/)
 
 ## Other Topics:
 
