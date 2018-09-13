@@ -92,6 +92,7 @@ Hopefully, this process would allow me to learn more effectively.
 3. [x] [Neo4j](https://neo4j.com/)
 4. [x] [MongoDB](https://www.mongodb.com/)
 5. [x] [MySQL](https://www.mysql.com/)
+6. [ ] [RocksDB](https://rocksdb.org/)
 
 ## Modern Front-End:
 
@@ -134,7 +135,7 @@ It sounds strange, but the `go to bed` part is called [diffused learning](https:
 
 Understanding the larger concept of what you are about to learn is vitally important because you will likely be less intimidated and therefore more receptive. A simple way to do this is to watch either a quick or somewhat in-depth video about the topic you are attempting to learn. A 5000-mile view of the entire course or skill would be perfect at this stage. It help's by removing the unknown from it (there are no bad surprises - like geometry).
 
-Since you will no longer be left spending energy on worrying about what you are not seeing or whats coming next, you can spend that time focussing on the actual learning at hand.
+Since you will no longer be left spending energy on worrying about what you are not seeing or what's coming next, you can spend that time focussing on the actual learning at hand.
 
 For adults to learn effectively, we need a pressing need and immediate application of the skill we're attempting to learn otherwise it will be forgotten almost as fast as we've picked up the skill.
 
