@@ -2,13 +2,13 @@
 
 I'm trying something new: re-learning how to learn. There's a ton of work that I need to get done and even more learning to do, but I'm finding conventional methods don't work for me lately.
 
-As an experiment, I've decided to document my new learning processes and create an archive of notes and tips for each certification / technology or subject I need to complete in the next year (2017 / 2018 / 2019).
+As an experiment, I've decided to document my new learning processes and create an archive of notes and tips for each certification / technology or subject I need to complete in the next year (2018 / 2019).
 
 I've turned this into a project on [Github](https://github.com/SeanNieuwoudt/learning) as a form of accountability and possibly a way to get input from others about how you managed to learn more effectively while keeping track of what needs to be done and what has been done - an ongoing record.
 
 Hopefully, this process would allow me to learn more effectively and find new ways to learn.
 
-## 2017/2018 Certifications:
+## 2017 / 2018 Certifications:
 
 1.  [x] [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 2.  [ ] [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
