@@ -84,6 +84,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 32. [ ] [GraalVM](https://www.graalvm.org/)
 33. [ ] [GTK+](https://www.gtk.org/)
 34. [ ] [Kotlin](https://kotlinlang.org/)
+35. [ ] [Bash Programming](https://www.udemy.com/bash-programming/learn/v4/overview)
 
 ## Database / Storage Systems:
 
@@ -100,6 +101,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 2. [ ] [Atomic design](http://atomicdesign.bradfrost.com/)
 3. [ ] [Vue.js](https://vuejs.org/v2/guide/index.html)
 4. [x] [React](https://reactjs.org/)
+5. [ ] [Refactoring UI](https://refactoringui.com/book/#get-refactoring-ui)
 
 ## Other Topics:
 
@@ -120,6 +122,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 15. [x] Private Pilot License
 16. [x] Paragliding License
 17. [ ] Keto
+18. [ ] Commercial Drone Pilot License
 
 ## My Learning Method Summary
 
