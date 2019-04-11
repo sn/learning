@@ -8,7 +8,7 @@ I've turned this into a project on [Github](https://github.com/SeanNieuwoudt/lea
 
 Hopefully, this process would allow me to learn more effectively and find new ways to learn.
 
-## 2017 / 2018 Certifications:
+## 2017 / 2018 / 2019 Certifications:
 
 1.  [x] [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 2.  [ ] [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
