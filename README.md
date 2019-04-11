@@ -59,7 +59,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 7.  [x] [Phoenix](http://phoenixframework.org/)
 8.  [x] [Gin](https://gin-gonic.github.io/gin/)
 9.  [x] [Python](https://www.python.org/)
-10. [ ] [Crystal](https://crystal-lang.org/)
+10. [x] [Crystal](https://crystal-lang.org/)
 11. [ ] [WebAssembly](https://webassembly.org/)
 12. [ ] [Kubernetes](https://kubernetes.io/)
 13. [ ] [GraphQL](https://graphql.org/)
@@ -78,13 +78,13 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 26. [x] [Sinatra](http://sinatrarb.com/)
 27. [x] [LaravelPHP](https://laravel.com/)
 28. [ ] [Django](https://www.djangoproject.com/)
-29. [ ] [Webpack](https://webpack.js.org/)
+29. [x] [Webpack](https://webpack.js.org/)
 30. [ ] [RabbitMQ](https://www.rabbitmq.com/)
 31. [ ] [Chef](https://chef.io)
 32. [ ] [GraalVM](https://www.graalvm.org/)
 33. [ ] [GTK+](https://www.gtk.org/)
 34. [ ] [Kotlin](https://kotlinlang.org/)
-35. [ ] [Bash Programming](https://www.udemy.com/bash-programming/learn/v4/overview)
+35. [x] [Bash Programming](https://www.udemy.com/bash-programming/learn/v4/overview)
 
 ## Database / Storage Systems:
 
@@ -97,7 +97,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 
 ## Modern Front-End:
 
-1. [ ] [Web components](https://www.webcomponents.org/)
+1. [x] [Web components](https://www.webcomponents.org/)
 2. [ ] [Atomic design](http://atomicdesign.bradfrost.com/)
 3. [ ] [Vue.js](https://vuejs.org/v2/guide/index.html)
 4. [x] [React](https://reactjs.org/)
