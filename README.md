@@ -99,7 +99,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 
 1. [x] [Web components](https://www.webcomponents.org/)
 2. [ ] [Atomic design](http://atomicdesign.bradfrost.com/)
-3. [ ] [Vue.js](https://vuejs.org/v2/guide/index.html)
+3. [x] [Vue.js](https://vuejs.org/v2/guide/index.html)
 4. [x] [React](https://reactjs.org/)
 5. [ ] [Refactoring UI](https://refactoringui.com/book/#get-refactoring-ui)
 
