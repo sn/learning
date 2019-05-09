@@ -85,6 +85,8 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 33. [ ] [GTK+](https://www.gtk.org/)
 34. [ ] [Kotlin](https://kotlinlang.org/)
 35. [x] [Bash Programming](https://www.udemy.com/bash-programming/learn/v4/overview)
+36. [ ] [Dart](https://dart.dev/)
+37. [ ] [Flutter](https://flutter.dev/)
 
 ## Database / Storage Systems:
 
