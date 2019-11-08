@@ -85,8 +85,8 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 33. [ ] [GTK+](https://www.gtk.org/)
 34. [ ] [Kotlin](https://kotlinlang.org/)
 35. [x] [Bash Programming](https://www.udemy.com/bash-programming/learn/v4/overview)
-36. [ ] [Dart](https://dart.dev/)
-37. [ ] [Flutter](https://flutter.dev/)
+36. [x] [Dart](https://dart.dev/)
+37. [x] [Flutter](https://flutter.dev/)
 
 ## Database / Storage Systems:
 
@@ -110,7 +110,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 1.  [ ] Survival & prepping (you never know when zombies pitch up)
 2.  [x] [Hand to hand combat](http://www.ronin.co.za/)
 3.  [ ] Improved writing
-4.  [ ] Investing & Wealth Management
+4.  [x] Investing & Wealth Management
 5.  [ ] Sign Language
 6.  [ ] Chess
 7.  [ ] Personal Health & Fitness
@@ -123,7 +123,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 14. [x] Open Water Scuba
 15. [x] Private Pilot License
 16. [x] Paragliding License
-17. [ ] Keto
+17. [x] Keto
 18. [ ] Commercial Drone Pilot License
 
 ## My Learning Method Summary
