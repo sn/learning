@@ -11,7 +11,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 ## 2017 / 2018 / 2019 Certifications:
 
 1.  [x] [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-2.  [ ] [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
+2.  [x] [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
 3.  [ ] [Comptia Security+](https://certification.comptia.org/certifications/security)
 4.  [ ] [Oracle Certified Java 8 Programmer](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=654&get_params=p_id:357)
 5.  [ ] [Certified Ethical Hacker v9](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
