@@ -107,7 +107,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 
 ## Other Topics:
 
-1.  [ ] Survival & prepping (you never know when zombies pitch up)
+1.  [x] Survival & prepping (you never know when zombies pitch up)
 2.  [x] [Hand to hand combat](http://www.ronin.co.za/)
 3.  [ ] Improved writing
 4.  [x] Investing & Wealth Management
@@ -124,7 +124,7 @@ Hopefully, this process would allow me to learn more effectively and find new wa
 15. [x] Private Pilot License
 16. [x] Paragliding License
 17. [x] Keto
-18. [ ] Commercial Drone Pilot License
+18. [x] Commercial Drone Pilot License
 
 ## My Learning Method Summary
 
